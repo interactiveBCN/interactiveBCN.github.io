@@ -11,10 +11,8 @@
     "type": "git",
     "url": "https://github.com/pepjo/interactivebcn.com.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "locale": "~0.0.x",
     "eslint": "^1.2.1",
     "foreman": "^1.4.1",
     "gulp": "*",
@@ -30,7 +28,8 @@
     "gulp-sourcemaps": "*",
     "gulp-watch": "*",
     "gulp-wrap": "^0.14.0",
-    "require-dir": "*"
+    "locale": "~0.0.x",
+    "require-dir": "^1.2.0"
   },
   "engines": {
     "node": "4.4.x"
