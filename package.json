@@ -11,25 +11,21 @@
     "type": "git",
     "url": "https://github.com/pepjo/interactivebcn.com.git"
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
+    "locale": "~0.1.x",
     "eslint": "^1.2.1",
-    "foreman": "^1.4.1",
     "gulp": "*",
     "gulp-autoprefixer": "*",
     "gulp-compile-handlebars": "^0.6.1",
-    "gulp-concat": "^2.6.1",
     "gulp-cssmin": "^0.1.7",
-    "gulp-declare": "^0.3.0",
-    "gulp-handlebars": "^5.0.2",
     "gulp-less": "*",
     "gulp-minify-css": "*",
     "gulp-rename": "^1.4.0",
     "gulp-sourcemaps": "*",
     "gulp-watch": "*",
-    "gulp-wrap": "^0.14.0",
-    "locale": "~0.0.x",
-    "require-dir": "^1.2.0"
+    "require-dir": "*"
   },
   "engines": {
     "node": "4.4.x"
