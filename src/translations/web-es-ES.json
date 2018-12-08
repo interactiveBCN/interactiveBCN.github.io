@@ -1,0 +1,36 @@
+{
+  "title": "InteractiveBCN - Aplicaciones y páginas web - Kibus",
+  "description": "InteractiveBCN somos un grupo de jovenes que no solo ofrecemos apps i páginas hechas a medida, tambien distribuimos Kibus: La mejor forma de saber que piensan sus clientes de su negocio.",
+  "menu": {
+    "qui": "¿Quiénes somos?",
+    "kibus": "Kibus",
+    "clients": "Clientes",
+    "contractar": "Contactar"
+  },
+  "qui": {
+    "title": "¿Quiénes somos?",
+    "description": "<strong>Interactive BCN</strong> somos un grupo de jóvenes catalanes que ofrecemos aplicaciones y páginas web hechas a medida para pequeñas y grandes empresas. Nuestro ámbito de especialización son las aplicaciones para móviles y tabletas así como las páginas web. También diseñamos software a medida para Windows, Mac y Linux."
+  },
+  "kibus": {
+    "title": "Kibus",
+    "description": "<h2 class=\"kibus__subtitol\">La mejor app de encuestas</h2><p class=\"kibus__paragraf\">Kibus es una app de encuestas para tablets, móviles y ordenadores. Puede instalarse a un tablet de su local o dejar que los clientes respondan con sus móviles.</p><h2 class=\"kibus__subtitol\">Visualize e interprete los resultados facilmente</h2><p  class=\"kibus__paragraf\">Utilice Customer Intelligence para aprender de sus clientes!</p>"
+  },
+  "kibus2": {
+    "title": "Kibus",
+    "description": "<h2 class=\"kibus__subtitol\">Aprender con los informes inteligentes</h2><p  class=\"kibus__paragraf\">Nuestro Business Intelligence les ayudará a saber si van por el buen camino</p><h2 class=\"kibus__subtitol\">Mejorar la cualificación del TripAdvisor</h2><p  class=\"kibus__paragraf\">Kibus ofrece la posibilidad de escribir opiniones al TripAdvisor o a otras redes a los clientes que hayan quedado satisfechos.</p>",
+    "goKibus": "Ir a www.kibus.io"
+  },
+  "kibusAvisam": {
+    "title": "¿Quieres mantenerte al día de las últimas novedades de Kibus?",
+    "placeholder": "Escriba aquí su correo",
+    "btn": "Avisame"
+  },
+  "form": {
+    "title": "Ponerse en contacto",
+    "description": "Si quieres contactar con nosotros puedes escribirnos utilizando el siguiente formulario y te contestaremos tan pronto como sea posible, generalmente menos de un día laboral, o puedes escribirnos a <strong> info@interactivebcn.com</strong>",
+    "nom": "NOMBRE Y APELLIDOS",
+    "email": "DIRECCIÓN DE CORREO",
+    "titleForm": "TÍTULO",
+    "consulta": "CONSULTA"
+  }
+}

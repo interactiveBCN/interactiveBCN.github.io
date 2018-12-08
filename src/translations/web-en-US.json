@@ -1,0 +1,36 @@
+{
+  "title": "InteractiveBCN - Apps and web pages - Kibus",
+  "description": "InteractiveBCN somos un grupo de jóvenes de Barcelona que no solo ofrecemos apps i páginas web hechas a medida, además, también distribuimos Kibus: La mejor forma de saber lo que piensan los clientes del sector de la hostelería y la restauración.",
+  "menu": {
+    "qui": "¿Who are we?",
+    "kibus": "Kibus",
+    "clients": "Clients",
+    "contractar": "Get in touch"
+  },
+  "qui": {
+    "title": "¿Who are we?",
+    "description": "<strong>Interactive BCN</strong> som un grup de joves de Barcelona que oferim aplicacions i p&agrave;gines web a mida per petites i grans empreses. El nostre &agrave;mbit d&rsquo;especialitzaci&oacute; s&oacute;n les aplicacions per a m&ograve;bils i tauletes aix&iacute; com les p&agrave;gines web. Tamb&eacute; dissenyem software a mida per Windows, Mac i Linux."
+  },
+  "kibus": {
+    "title": "Kibus",
+    "description": "<h2 class=\"kibus__subtitol\">The best survey app</h2><p class=\"kibus__paragraf\">Kibus is a survey app for tablets, phones and computers. It can be installed on a tablet at your establishment or your customers can use it to answer from their own smartphones.</p><h2 class=\"kibus__subtitol\">Watch and understand your results easily</h2><p  class=\"kibus__paragraf\">Use Customer Intelligence to learn from your customers!</p>"
+  },
+  "kibus2": {
+    "title": "Kibus",
+    "description": "<h2 class=\"kibus__subtitol\">Learn with the intelligent reports</h2><p  class=\"kibus__paragraf\">Our Business Intelligence will keep you in the right path</p><h2 class=\"kibus__subtitol\">Improve your TripAdvisor stand</h2><p  class=\"kibus__paragraf\">Kibus offers the possiblity to writte TripAdvisor and other social network reviews to your most satisfied customers.</p>",
+    "goKibus": "Go to www.kibus.io"
+  },
+  "kibusAvisam": {
+    "title": "Do you want to recieve the last news from Kibus?",
+    "placeholder": "Write your email here",
+    "btn": "Send me some news"
+  },
+  "form": {
+    "title": "Get in touch",
+    "description": "Si vols contactar amb nosaltres pots escriure'ns utilitzant el següent formulari i et contestarem tan aviat com puguem, generalment menys d'un dia laboral, o pots escriure'ns a <strong>info@interactivebcn.com</strong>",
+    "nom": "NAME AND SURNAME",
+    "email": "EMAIL",
+    "titleForm": "TITLE",
+    "consulta": "MESSAGE"
+  }
+}

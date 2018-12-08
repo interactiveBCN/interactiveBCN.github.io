@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /images/
+Disallow: /gulpfile.js/
+Disallow: /routes/
+Disallow: /scripts/
+Disallow: /src/
+Disallow: /styles/

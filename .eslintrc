@@ -1,0 +1,32 @@
+{
+    "rules": {
+      "quotes": [
+        1,
+        "single"
+      ],
+      "semi": [
+        1,
+        "always"
+      ],
+      "no-trailing-spaces": [1, { "skipBlankLines": true }],
+      "space-infix-ops": 1,
+      "comma-spacing": 1,
+			"no-alert": 0,
+      "new-cap": 0,
+      "no-shadow": 2,
+      "no-unused-vars": 2
+    },
+    "env": {
+      "es6": true,
+      "node": true,
+      "browser": true
+    },
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "globals": {
+      "$": true,
+      "classNames": true,
+      "_": true
+    }
+}

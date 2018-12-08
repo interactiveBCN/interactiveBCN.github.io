@@ -1,0 +1,10 @@
+functions/lang-list.dep.js
+functions/countryCodeAlpha3.js
+functions/uuid.js
+rel/*
+node_modules/*
+src/scripts/app/common/sha512.dep.js
+src/scripts/app/main-establishments/panel-showResults/generateXLS.jsx
+src/scripts/app/main-establishments/panel-showResults/generateXLS-int.jsx
+src/scripts/app/main-establishments/panel-showResults/generateCSV.jsx
+src/scripts/app/main-establishments/panel-showResults/generateCSV-int.jsx

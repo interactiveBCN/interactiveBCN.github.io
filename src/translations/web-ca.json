@@ -1,0 +1,36 @@
+{
+  "title": "",
+  "description": "",
+  "menu": {
+    "qui": "Qui som?",
+    "kibus": "Kibus",
+    "clients": "Clients",
+    "contractar": "Contactar"
+  },
+  "qui": {
+    "title": "Qui som?",
+    "description": "<strong>Interactive BCN</strong> som un grup de joves de Barcelona que oferim aplicacions i p&agrave;gines web a mida per petites i grans empreses. El nostre &agrave;mbit d&rsquo;especialitzaci&oacute; s&oacute;n les aplicacions per a m&ograve;bils i tauletes aix&iacute; com les p&agrave;gines web. Tamb&eacute; dissenyem software a mida per Windows, Mac i Linux."
+  },
+  "kibus": {
+    "title": "Kibus",
+    "description": "<h2 class=\"kibus__subtitol\">La millor app d'enquestes</h2><p class=\"kibus__paragraf\">Kibus és una app d'enquestes per tablets, mòbils i ordinadors. Es pot instal·lar a un tablet del vostre local o deixar que els clients utilitzin els seus mòbils.</p><h2 class=\"kibus__subtitol\">Visualitzeu i interpreteu els resultats fàcilment</h2><p  class=\"kibus__paragraf\">Feu servir Customer Intelligence per aprendre dels vostres clients!</p>"
+  },
+  "kibus2": {
+    "title": "Kibus",
+    "description": "<h2 class=\"kibus__subtitol\">Aprengueu amb informes intel·ligents</h2><p  class=\"kibus__paragraf\">El nostre Business Intelligence us ajudarà a saber si aneu pel bon camí</p><h2 class=\"kibus__subtitol\">Millorar la qualificació del TripAdvisor</h2><p  class=\"kibus__paragraf\">Kibus ofereix la possiblitat d'escriure opinions al TripAdvisor o d'altres xarxes a aquells clients que hagin quedat satisfets.</p>",
+    "goKibus": "Anar a www.kibus.io"
+  },
+  "kibusAvisam": {
+    "title": "Vols estar al corrent de les últimes novetats de Kibus?",
+    "placeholder": "Escriu el teu correu aquí",
+    "btn": "Avisa'm"
+  },
+  "form": {
+    "title": "Posar-se en contacte",
+    "description": "Si vols contactar amb nosaltres pots escriure'ns utilitzant el següent formulari i et contestarem tan aviat com puguem, generalment menys d'un dia laboral, o pots escriure'ns a <strong>info@interactivebcn.com</strong>",
+    "nom": "NOM I COGNOMS",
+    "email": "DIRECCIÓ DE CORREU",
+    "titleForm": "TÍTOL",
+    "consulta": "CONSULTA"
+  }
+}

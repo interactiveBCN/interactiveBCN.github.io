@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.interactivebcn.com/ca/</loc>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="ca"
+                 href="http://www.interactivebcn.com/ca/"
+                 />
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="es-ES"
+                 href="http://www.interactivebcn.com/es-ES/"
+                 />
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="en-US"
+                 href="http://www.interactivebcn.com/"
+                 />
+  </url>
+
+  <url>
+    <loc>http://www.interactivebcn.com/es-ES/</loc>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="ca"
+                 href="http://www.interactivebcn.com/ca/"
+                 />
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="es-ES"
+                 href="http://www.interactivebcn.com/es-ES/"
+                 />
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="en-US"
+                 href="http://www.interactivebcn.com/"
+                 />
+  </url>
+
+  <url>
+    <loc>http://www.interactivebcn.com/</loc>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="ca"
+                 href="http://www.interactivebcn.com/ca/"
+                 />
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="es-ES"
+                 href="http://www.interactivebcn.com/es-ES/"
+                 />
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="en-US"
+                 href="http://www.interactivebcn.com/"
+                 />
+  </url>
+
+</urlset>
